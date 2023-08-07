@@ -1,16 +1,4 @@
-/* .header {
 
-    background-color: #1F2937;
-    width: auto;
-    margin: -10px -8px;
-    width: auto;
-    height: 70px;
-    transition: 1s;
-    font-family: 'Roboto', sans-serif;
-    display: flex;
-
-
-} */
 body {
     margin: 0;
     padding: 0;
@@ -115,34 +103,23 @@ body {
 
 
 .container2 {
-
-    /* margin-left: 400px;
-    margin-top: 100px;
-    margin-right: 70px; */
     padding: 5% 2% 5% 20%;
     width: 500px;
-
 }
 
 .Tittle {
-
     color: white;
     font-size: 48px;
     font-weight: bolder;
     align-self: center;
-
-
 }
 
 .introduction-paragraph {
-
     color: white;
     margin-top: -25px;
-
 }
 
 .Contact-me {
-
     padding: 10px 30px 10px 30px;
     background-color: rgb(0, 149, 255);
     color: white;
@@ -151,7 +128,6 @@ body {
     border-radius: 10px;
     border: 0;
     cursor: pointer;
-
 }
 
 .video-box {
@@ -325,6 +301,7 @@ body {
     padding: 2% 10%;
     border-radius: 7px;
     font-weight: bolder;
+    cursor: pointer;
 }
 
 .footer {
